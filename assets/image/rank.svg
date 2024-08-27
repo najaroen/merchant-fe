@@ -1,0 +1,11 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 1000006867">
+<rect width="40" height="40" rx="20" fill="#3E3E3E"/>
+<g id="Group 35593">
+<path id="Rectangle 9553" d="M7.8 16C7.8 15.3373 8.33726 14.8 9 14.8H15.2V30.2H9C8.33726 30.2 7.8 29.6627 7.8 29V16Z" stroke="white" stroke-width="1.6"/>
+<path id="Rectangle 9554" d="M15.8 9C15.8 8.33726 16.3373 7.8 17 7.8H23C23.6627 7.8 24.2 8.33726 24.2 9V30.2H15.8V9Z" stroke="white" stroke-width="1.6"/>
+<path id="Rectangle 9555" d="M24.8 17.8H31C31.6627 17.8 32.2 18.3373 32.2 19V29C32.2 29.6627 31.6627 30.2 31 30.2H24.8V17.8Z" stroke="white" stroke-width="1.6"/>
+<rect id="Rectangle 9556" x="22" y="10" width="5" height="2" rx="1" transform="rotate(90 22 10)" fill="white"/>
+</g>
+</g>
+</svg>
