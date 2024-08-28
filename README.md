@@ -7,7 +7,7 @@ A new Flutter project.
 How to run 
  case 'web' 
  flutter run -d chrome --web-browser-flag "--disable-web-security"
- case ''mobile'
+ case 'mobile'
  flutter run -d 'DEVICE ID'
 
 
