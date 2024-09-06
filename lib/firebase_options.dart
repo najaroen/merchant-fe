@@ -57,12 +57,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC8ibJcFi3VUze7zKBlUDWZkwHoKQcczlw',
-    appId: '1:848115327154:web:74ed16bfd9e680b53b29ab',
-    messagingSenderId: '848115327154',
-    projectId: 'minnasan-fd8f8',
-    authDomain: 'minnasan-fd8f8.firebaseapp.com',
-    storageBucket: 'minnasan-fd8f8.appspot.com',
-    measurementId: 'G-8EVFRGQC1Q',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
